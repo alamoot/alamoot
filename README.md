@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://stackoverflow.com/users/3411556/"><img src="https://stackexchange.com/users/flair/4161559.png" width="208" height="58" alt="profile for alamoot on Stack Exchange" title="profile for alamoot on Stack Exchange"></a>
+<a href="https://stackoverflow.com/users/3411556/"><img src="https://stackexchange.com/users/flair/4161559.png?theme=dark" width="208" height="58" alt="profile for alamoot on Stack Exchange" title="profile for alamoot on Stack Exchange"></a>
