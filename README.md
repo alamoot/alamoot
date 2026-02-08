@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **alamoot/alamoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://stackoverflow.com/users/3411556/"><img src="https://stackexchange.com/users/flair/4161559.png" width="208" height="58" alt="profile for alamoot on Stack Exchange" title="profile for alamoot on Stack Exchange"></a>
